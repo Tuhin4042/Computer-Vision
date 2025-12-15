@@ -31,7 +31,3 @@ This project is a Python-based desktop application that allows users to adjust t
 3. Contrast is adjusted using the contrast slider
 4. Changes are displayed instantly on the screen
 ---
-
-
-```bash
-pip install opencv-python pillow numpy
