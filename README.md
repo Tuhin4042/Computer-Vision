@@ -1,4 +1,4 @@
-<img style="margin-right: 30px" width="800" height="800" src="https://github.com/Tuhin4042/resource/blob/main/ComputerVision_title.png">
+<img style="margin-right: 30px" width="800" height="800" src="https://github.com/Tuhin4042/resource/blob/main/computer-vision.png">
 
 # Computer Vision
 
