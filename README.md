@@ -65,8 +65,3 @@ Detecting important features such as edges, corners, and textures.
 - Mobile camera enhancements
 
 ---
-
-
-
-**Hemayet Hossain Tuhin**  
-Learning Computer Vision, Machine Learning, and AI step by step 🚀
